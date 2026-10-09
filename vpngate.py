@@ -522,7 +522,7 @@ def build_hosts_text(data):
 
 
 # edgetunnel 完整订阅 (vless://) 配置
-EDT_UUID = os.environ.get("EDT_UUID", "55dd8fbc-d8b6-4bf4-8c63-cb763f1661d1")
+EDT_UUID = os.environ.get("EDT_UUID", "d2326ea0-736e-491b-a392-0ffd001dafd6")
 EDT_DOMAIN = os.environ.get("EDT_DOMAIN", "bbb.qswyuy.ccwu.cc")
 EDT_FINGERPRINT = os.environ.get("EDT_FINGERPRINT", "chrome")
 SUB_URL = os.environ.get("SUB_URL", "https://jerylihub.github.io/gate/sub.txt")
